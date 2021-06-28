@@ -47,11 +47,11 @@
 
 ## Description
 
-    This project was created for one of my university subjects. The goal of this project was to create a scheduling algorithm that assigns jobs into different distributed system servers as efficiently as I can make it. The project was created using Java and is tested and ran on Linux (specifically Ubuntu) machines.
+This project was created for one of my university subjects. The goal of this project was to create a scheduling algorithm that assigns jobs into different distributed system servers as efficiently as I can make it. The project was created using Java and is tested and ran on Linux (specifically Ubuntu) machines.
 
-    Stage 1 of the project was done collaboratively with my team members, Afroja Rowson Akter & Jayakrithi Shivakumar. While stage 2 of the project was done by myself. To read more about each individual stages, feel free to check the docs folder.
+Stage 1 of the project was done collaboratively with my team members, Afroja Rowson Akter & Jayakrithi Shivakumar. While stage 2 of the project was done by myself. To read more about each individual stages, feel free to check the docs folder.
 
-    This project was reuploaded and reformatted for my own repository for future storage and reference and as such will not show the commits of both my team members as it was done in another repository. However, a picture of a list of commits made by my team members previously is shown in the images folder.
+This project was reuploaded and reformatted for my own repository for future storage and reference and as such will not show the commits of both my team members as it was done in another repository. However, a picture of a list of commits made by my team members previously is shown in the images folder.
 
 ### How to run and test the code
     TBD
