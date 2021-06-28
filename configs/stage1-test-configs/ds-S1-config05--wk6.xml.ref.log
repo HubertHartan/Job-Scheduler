@@ -1,0 +1,9 @@
+# ds-sim server 18-February, 2021 @ MQ - client-server
+# Server-side simulator started with './ds-server -c ./S1testConfigs/ds-S1-config05--wk6.xml -v brief -n'
+# Waiting for connection to port 50000 of IP address 127.0.0.1
+RCVD HELO
+SENT OK
+RCVD AUTH sabbib
+# Welcome  sabbib!
+# The system information can be read from 'ds-system.xml'
+SENT OK
